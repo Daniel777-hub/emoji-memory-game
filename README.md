@@ -26,6 +26,9 @@ Sinta-se à vontade para personalizar o jogo adicionando novas imagens, ajustand
 
 ## Contribuição
 
-Se você quiser contribuir para melhorar o jogo, adicionar recursos ou corrigir problemas, fique à vontade para abrir um _pull request_.
+Contribuições são bem-vindas! Se deseja melhorar o jogo, adicionar recursos ou corrigir problemas, abra um pull request.
+
+## Créditos
+Este jogo faz parte de um projeto educacional da Digital Innovation One.
 
 
